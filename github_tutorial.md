@@ -4,9 +4,8 @@
 
 <!---
 <img src='images/github-logo.png?raw=true' alt='GitHub Logo' height='100'>
-
-pandoc github_tutorial.md -o github_tutorial.html
-pandoc -t dzslides -s github_tutorial.md -o github_tutorial_slides.html
+pandoc readme.md -o readme.html
+pandoc -t dzslides -s readme.md -o readme_slides.html
 --->
 
 # What is Github?
